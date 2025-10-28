@@ -1,0 +1,4 @@
+1. Git is a powerful version control software that allows us to track all changes over time.
+2. You begin by using git by creating a new folder and typing "git init" using the terminal.
+3. You use "git add" to add files that are ready to be committed and "git commit" to actually commit them.
+4. It is also best practice to create a .gitignore file to include files that should not be tracked, a README file to make sure others know how our project works and a license file to let others know how to use use the file appropriately.
