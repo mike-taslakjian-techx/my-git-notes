@@ -1,0 +1,3 @@
+Github, different from Git, is a platform/website where you can store your local repositories online for others to see.
+
+In order to start using it, you need to create a repository on the website and then use the "git remote" command to connect your local repository to it. After that, all you have to do is use "git push" to sync the changes to the website.
